@@ -17,6 +17,7 @@ import java.util.List;
 
 import retrofit2.Callback;
 
+//This class is to recycle Adapter
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHolder>{
 
     private List<Repo> dataList;
