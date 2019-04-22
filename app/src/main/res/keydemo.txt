@@ -1,0 +1,5 @@
+this is added to flavour
+
+name
+alias name- android
+pass-123456
